@@ -23,5 +23,7 @@ Este projeto utiliza a biblioteca GraphStream em Java para gerar um grafo aleat�
 - A ocorrência de arestas rejeitadas durante a geração do grafo pode ocorrer devido à tentativa de adicionar arestas duplicadas. A implementação trata essa situação para garantir a integridade do grafo.
 
 - O código inclui um loop infinito para permitir a rotação contínua da visualização. Caso deseje encerrar a aplicação, feche a janela da visualização gráfica.
+- 
+![Grafo](https://github.com/robertperquim/grafo-profundidade/blob/main/img/grafo.png)
 
 
